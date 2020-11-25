@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>HelloWorld</title>
+<style>
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #212f52;
+   color: white;
+   text-align: center;
+}
+</style>
+
+</head>
+<body>
+<center>
+<h1>Hello World</h1>
+<h2>This is the first Assignment for Web Application Development.</h2>
+<p>Web development is the work involved in developing a Web site for the Internet (World Wide Web) or an intranet (a private network). Web development can range from developing a simple single static page of plain text to complex Web-based Internet applications (Web apps), electronic businesses, and social network services. A more comprehensive list of tasks to which Web development commonly refers, may include Web engineering, Web design, Web content development, client liaison, client-side/server-side scripting, Web server and network security configuration, and e-commerce development. </p>
+<img src="helloworld.jpeg"  width="800" height="400" >
+</center>
+
+<div class="footer">
+  <p>Sakar KC 5738029</p>
+</div>
+
+</body>
+</html>
